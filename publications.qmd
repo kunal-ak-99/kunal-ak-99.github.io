@@ -9,8 +9,8 @@ css: custom.css
 
 ## Posters
 
-Challenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing](https://www.page-meeting.org/Abstracts/challenges-in-generating-a-ground-truth-for-method-development-in-model-informed-precision-dosing/)\\underline{Anilkumar K}, Hartung N, Kloft C, Huisinga W (2026). *PAGE 2026*, June 2026.
+<u>Anilkumar K</u>, Hartung N, Kloft C, Huisinga W (2026). [Challenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing](https://www.page-meeting.org/Abstracts/challenges-in-generating-a-ground-truth-for-method-development-in-model-informed-precision-dosing/). *PAGE 2026*, June 2026.
 
 <center><hr style="width:50%"></center>
 
-[Prospective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty](https://www.page-meeting.org/Abstracts/prospective-randomised-controlled-trial-on-model-informed-precision-dosing-mipd-for-ustekinumab-and-vedolizumab-in-inflammatory-bowel-diseases-move-it-a-bayesian-framework-incorporating-parameter/)Widigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, \\underline{Anilkumar K}, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C (2026). *PAGE 2026*, June 2026.
+Widigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, <u>Anilkumar K</u>, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C (2026). [Prospective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty](https://www.page-meeting.org/Abstracts/prospective-randomised-controlled-trial-on-model-informed-precision-dosing-mipd-for-ustekinumab-and-vedolizumab-in-inflammatory-bowel-diseases-move-it-a-bayesian-framework-incorporating-parameter/). *PAGE 2026*, June 2026.
