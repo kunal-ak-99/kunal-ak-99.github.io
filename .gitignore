@@ -1,1 +1,7 @@
 /.quarto/
+
+**/*.quarto_ipynb
+
+# Source files kept locally; published copies live in files/
+/Kunal _ Resume.pdf
+/photo_Kunal (2).JPG

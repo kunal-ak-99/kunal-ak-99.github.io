@@ -1,0 +1,77 @@
+---
+title: "Curriculum Vitae"
+description-meta: "CV of Kunal Anilkumar — doctoral researcher in pharmacometrics and Bayesian inference"
+title-block-banner: false
+toc: true
+toc-depth: 2
+---
+
+<p align="right">[{{< fa file-pdf >}} Download PDF](files/kunal-anilkumar-cv.pdf){.btn .btn-outline-primary .btn-sm target="_blank"}</p>
+
+Doctoral researcher in the PharMetrX Research+ Program at the University of Potsdam, specializing in mathematical and statistical methods for pharmacometric modeling. My research combines quantitative modeling, Bayesian statistics, and data analysis to support model-informed drug development and precision dosing.
+
+## Education
+
+**Ph.D. in Applied Mathematics** — University of Potsdam &nbsp;·&nbsp; *04/2025 – present*
+
+- Thesis: Bayesian Approaches in Model-Informed Precision Dosing (MIPD)
+- Supervisor: Prof. Dr. Wilhelm Huisinga
+- Co-Supervisor: Prof. Dr. Charlotte Kloft
+
+**M.Sc. Mathematics** — University of Münster &nbsp;·&nbsp; *10/2021 – 11/2024*
+
+- Thesis: The SIR Model of Epidemiology (grade 1.7)
+- Supervisor: Prof. Dr. Gerold Alsmeyer
+
+**B.Sc. (Research) in Mathematics** — Shiv Nadar University &nbsp;·&nbsp; *07/2017 – 07/2021*
+
+**Cambridge AS and A Levels** — JG International School &nbsp;·&nbsp; *03/2015 – 03/2017*
+
+## Experience
+
+**PhD Student** — PharMetrX Graduate Research Training Program &nbsp;·&nbsp; *04/2025 – present*
+
+**Student Assistant** — University of Münster &nbsp;·&nbsp; *04/2024 – 03/2025*
+
+- Led tutorial sessions for 24 undergraduate and graduate students, fostering an interactive learning environment.
+- Evaluated weekly assignments, ensuring timely and constructive feedback to support student progress.
+
+## Posters
+
+- **Challenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing.**
+  <u>Anilkumar K</u>, Hartung N, Kloft C, Huisinga W. *PAGE 2026*, June 2026.
+
+- **Prospective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty.**
+  Widigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, <u>Anilkumar K</u>, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C. *PAGE 2026*, June 2026.
+
+## Skills
+
+**Programming:** R, Python, C, MATLAB, LaTeX, NONMEM
+
+**AI / agentic coding:** Claude Code, Gemini, ChatGPT
+
+**Version control:** Git, GitHub, GitLab
+
+## Courses and Training
+
+- PharMetrX modules
+  - A1–A5: PK/PD, PBPK, PopPK, QSP, Statistics and Data Analysis
+  - I1: Drug discovery and development — walking along the value chain
+- SFB 1294 Autumn School 2026, University of Potsdam
+- AI Tools — Responsible Use & Application in Academia, Potsdam Graduate School
+- Scientific Programming with Python: From Fundamentals to Data Analysis, Potsdam Graduate School
+- PhD Peer Support, Potsdam Graduate School
+- Intermediate Git, DataCamp
+- Python for Everybody Specialization, University of Michigan (Coursera)
+
+## Honors and Awards
+
+- **Dean's List**, Shiv Nadar University — *09/2020*. Recognized for being in the top 5% of the class for exceptional academic performance.
+- **Student of The Year**, JG International School — *12/2016*. Awarded for extraordinary contributions to the student community, selected from a pool of 100 students.
+- **Certificate of Achievement**, JG International School — *12/2016*. Awarded for outstanding academic performance.
+
+## Languages
+
+**Native level:** English, Hindi
+
+**Other:** German (B2), Gujarati (A2), French (A1), Spanish (A1)
