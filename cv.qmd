@@ -6,8 +6,6 @@ toc: true
 toc-depth: 2
 ---
 
-<p align="right">[{{< fa file-pdf >}} Download PDF](files/kunal-anilkumar-cv.pdf){.btn .btn-outline-primary .btn-sm target="_blank"}</p>
-
 Doctoral researcher in the PharMetrX Research+ Program at the University of Potsdam, specializing in mathematical and statistical methods for pharmacometric modeling. My research combines quantitative modeling, Bayesian statistics, and data analysis to support model-informed drug development and precision dosing.
 
 ## Education
