@@ -48,12 +48,12 @@ website:
       - icon: github
         href: https://github.com/kunal-ak-99
         target: _blank
-      - icon: linkedin
-        href: https://www.linkedin.com/in/kunal-anilkumar
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank
+      # - icon: linkedin
+      #   href: https://www.linkedin.com/in/kunal-anilkumar
+      #   target: _blank
+      # - icon: rss
+      #   href: posts.xml
+      #   target: _blank
   
   page-navigation: true
   
