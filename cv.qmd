@@ -34,14 +34,6 @@ Doctoral researcher in the PharMetrX Research+ Program at the University of Pots
 - Led tutorial sessions for 24 undergraduate and graduate students, fostering an interactive learning environment.
 - Evaluated weekly assignments, ensuring timely and constructive feedback to support student progress.
 
-## Posters
-
-- **Challenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing.**
-  <u>Anilkumar K</u>, Hartung N, Kloft C, Huisinga W. *PAGE 2026*, June 2026.
-
-- **Prospective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty.**
-  Widigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, <u>Anilkumar K</u>, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C. *PAGE 2026*, June 2026.
-
 ## Skills
 
 **Programming:** R, Python, C, MATLAB, LaTeX, NONMEM

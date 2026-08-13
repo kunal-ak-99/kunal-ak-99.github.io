@@ -21,13 +21,6 @@
     "text": "Experience\nPhD Student — PharMetrX Graduate Research Training Program  ·  04/2025 – present\nStudent Assistant — University of Münster  ·  04/2024 – 03/2025\n\nLed tutorial sessions for 24 undergraduate and graduate students, fostering an interactive learning environment.\nEvaluated weekly assignments, ensuring timely and constructive feedback to support student progress."
   },
   {
-    "objectID": "cv.html#posters",
-    "href": "cv.html#posters",
-    "title": "Curriculum Vitae",
-    "section": "Posters",
-    "text": "Posters\n\nChallenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing. Anilkumar K, Hartung N, Kloft C, Huisinga W. PAGE 2026, June 2026.\nProspective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty. Widigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, Anilkumar K, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C. PAGE 2026, June 2026."
-  },
-  {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
@@ -179,14 +172,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Anilkumar K, Hartung N, Kloft C, Huisinga W (2026). Challenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing. PAGE 2026, June 2026.\n\n\n\nWidigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, Anilkumar K, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C (2026). Prospective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty. PAGE 2026, June 2026."
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "publications.html#posters",
+    "href": "publications.html#posters",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "",
+    "text": "Anilkumar K, Hartung N, Kloft C, Huisinga W (2026). Challenges in Generating a Ground Truth for Method Development in Model-Informed Precision Dosing. PAGE 2026, June 2026.\n\n\n\nWidigson ESK, Braun K, Duvnjak Z, Klose M, Frimor C, Anilkumar K, Huisinga W, Steenholdt C, Ainsworth MA, Kloft C (2026). Prospective randomised controlled trial on model-informed precision dosing (MIPD) for ustekinumab and vedolizumab in inflammatory bowel diseases (MOVE-IT): A Bayesian framework incorporating parameter uncertainty. PAGE 2026, June 2026."
   },
   {
     "objectID": "posts.html",
